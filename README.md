@@ -54,13 +54,13 @@ def test_list_type():
    - [Sintaksa Python](src/fillimi/sintaksa_python.md)
    - [Variablat](src/fillimi/test_variables.py)
 2. **Operatorët**
-   - [Operatorët Aritmetikë](src/operators/test_arithmetic.py) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
-   - [Operatorët Bitwise](src/operators/test_bitwise.py) (`&`, `|`, `^`, `>>`, `<<`, `~`)
-   - [Operatorët e Caktimit](src/operators/test_assigment.py) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
-   - [Operatorët Comparison](src/operators/test_comparison.py) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
-   - [Operatorët Logical](src/operators/test_logical.py) (`and`, `or`, `not`)
-   - [Operatorët Identity](src/operators/test_identity.py) (`is`, `is not`)
-   - [Operatorët Membership](src/operators/test_membership.py) (`in`, `not in`)
+   - [Operatorët Aritmetikë](src/operatoret/test_arithmetic.py) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+   - [Operatorët Bitwise](src/operatoret/test_bitwise.py) (`&`, `|`, `^`, `>>`, `<<`, `~`)
+   - [Operatorët e Caktimit](src/operatoret/test_assigment.py) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
+   - [Operatorët e Krahasimit](src/operatoret/test_comparison.py) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+   - [Operatorët Logjikë](src/operatoret/test_logical.py) (`and`, `or`, `not`)
+   - [Operatorët e Identitetit](src/operatoret/test_identity.py) (`is`, `is not`)
+   - [Operatorët e Anëtarësimit](src/operatoret/test_membership.py) (`in`, `not in`)
 3. **Data Types**
    - [Numbers](src/data_types/test_numbers.py) (including booleans)
    - [Strings](src/data_types/test_strings.py) and their methods
