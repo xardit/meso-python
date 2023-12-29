@@ -16,7 +16,7 @@ Në përgjithësi, kjo mund ta bëjë procesin tuaj të të mësuarit të jetë 
 ```python
 """Lists  <--- Emri i temës këtu
 
-# @see: https://ëëë.learnpython.org/en/Lists  <-- Link për lexime të mëtejshme gjendet këtu
+# @see: https://www.learnpython.org/en/Lists  <-- Link për lexime të mëtejshme gjendet këtu
 
 Këtu mund të ketë shpjegim më të detajuar të temës aktuale (dmth informacione të përgjithshme rreth listave).
 """
@@ -61,14 +61,14 @@ def test_list_type():
    - [Operatorët Logjikë](src/operatoret/test_logical.py) (`and`, `or`, `not`)
    - [Operatorët e Identitetit](src/operatoret/test_identity.py) (`is`, `is not`)
    - [Operatorët e Anëtarësimit](src/operatoret/test_membership.py) (`in`, `not in`)
-3. **Data Types**
-   - [Numbers](src/data_types/test_numbers.py) (including booleans)
-   - [Strings](src/data_types/test_strings.py) and their methods
-   - [Lists](src/data_types/test_lists.py) and their methods (including list comprehensions)
+3. **Llojet e të dhënave / Data Types**
+   - [Numrat](src/data_types/test_numbers.py) (perfshin booleans)
+   - *[Vargjet/Strings](src/data_types/test_strings.py) dhe metodat
+   - [Listat](src/data_types/test_lists.py) dhe metodat (duke përfshirë të kuptuarit e listës)
    - [Tuples](src/data_types/test_tuples.py)
-   - [Sets](src/data_types/test_sets.py) and their methods
-   - [Dictionaries](src/data_types/test_dictionaries.py)
-   - [Type Casting](src/data_types/test_type_casting.py)
+   - [Bashkesia/Set](src/data_types/test_sets.py) dhe metodat
+   - [Fjaloret/Dictionaries](src/data_types/test_dictionaries.py)
+   - [Lloji modelit](src/data_types/test_type_casting.py)
 4. **Control Flow**
    - [The `if` statement](src/control_flow/test_if.py)
    - [The `for` statement](src/control_flow/test_for.py) (and `range()` function)
@@ -179,6 +179,9 @@ python ./src/vendodhja/test_file.py
 - Python - I referohet gjuhës _Piton_ por e thënë në Anglisht
 - Pohim - Formulimi i një pohimi duke përdorur deklaratën `assert` - shikoni shpembuj nga përmbajtja
 
+
 ---
+
+> Ky kod është kopjuar dhe ripërpunuar nga një depo e vjeter [@trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 
 Autori: [Ardit Hyka](https://ardit.bio.link)
